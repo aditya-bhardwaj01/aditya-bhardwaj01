@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.analyticsvidhya.com/blog/2024/04/top-coding-platforms-for-data-science-beginners/">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhardwaj01&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-bhardwaj01" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
