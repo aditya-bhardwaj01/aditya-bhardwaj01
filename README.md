@@ -1,4 +1,3 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw21qCRD0nEZOkWM9UjApVX-&ust=1705076296991000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMD09qre1YMDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
